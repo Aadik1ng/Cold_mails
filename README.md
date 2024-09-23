@@ -67,6 +67,4 @@ Replace `script_name.py` with the actual name of the script file.
 - **Failed to Generate Cover Letter**: Ensure the Ollama API is running and accessible at the specified endpoint.
 - **Failed to Send Email**: Verify your email credentials and ensure SMTP access is enabled for your email account.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
